@@ -6,7 +6,7 @@
 This mod was created to improve the existing drone camera of the game
 
 ## Features :
-- change the camera tilt
+- change camera tilt
 - add keybinds for the important settings
 
 ## NOTE :
