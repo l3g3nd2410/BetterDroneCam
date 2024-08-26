@@ -28,3 +28,10 @@ opening KSL's menu > Mod DB > BetterDroneCam
 ## Support :
 
 For support, send a message to l3g3nd_2410 on discord.
+
+## Support :
+![Capture d'écran 2024-08-23 202047](https://github.com/user-attachments/assets/e3d782c2-87a4-4e23-b963-012a8314b792)
+
+![Capture d'écran 2024-08-23 202059](https://github.com/user-attachments/assets/3121c2e6-b646-48b5-bca8-1564caca790a)
+
+![Capture d'écran 2024-08-23 202110](https://github.com/user-attachments/assets/06fda023-a127-4e67-a567-41c8d0498852)
