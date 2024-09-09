@@ -1,4 +1,4 @@
-# Better Drone Cam | 1.0.0
+# Better Drone Cam | 1.0.1
 ![qshgqdfgqsdfc](https://github.com/user-attachments/assets/cf0735d7-6c93-42af-91f9-efff97b84ca8)
 
 ## Description :
@@ -7,6 +7,7 @@ This mod was created to improve the existing drone camera of the game
 
 ## Features :
 - change camera tilt
+- smooth zoom
 - add keybinds for the important settings
 
 ## NOTE :
